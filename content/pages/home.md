@@ -3,7 +3,6 @@ blocks:
   - tagline: ''
     headline: A blog website that uses Tina
     text: >-
-      This project is set up to show you the basics of working with Tina.
       `content/pages/home.md`, components from `components/blocks`, and puts
       them all together in `pages/[filename].tsx`, all based on a schema defined
       in `.tina/schema.ts`.
