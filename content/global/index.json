@@ -22,7 +22,7 @@
     ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
       "facebook": "/",
       "twitter": "/",
@@ -30,9 +30,9 @@
     }
   },
   "theme": {
-    "color": "blue",
-    "font": "sans",
-    "icon": "boxicon",
+    "color": "teal",
+    "font": "nunito",
+    "icon": "heroicon",
     "darkMode": "system"
   }
 }
