@@ -17,7 +17,7 @@ blocks:
         link: /posts
     image:
       src: >-
-        http://res.cloudinary.com/communal-impact/image/upload/v1637520854/243540867_315566736762863_71462350927572349_n_shoxpt.jpg
+        http://res.cloudinary.com/communal-impact/image/upload/v1616961206/samples/food/spices.jpg
       alt: Tina
     color: default
     _template: hero
