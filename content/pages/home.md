@@ -3,9 +3,9 @@ blocks:
   - tagline: ''
     headline: A blog website that uses Tina
     text: >-
-      `content/pages/home.md`, components from `components/blocks`, and puts
-      them all together in `pages/[filename].tsx`, all based on a schema defined
-      in `.tina/schema.ts`.
+      `Some new technologies barely make a ripple, some make a loud bang and
+      fizzle away like fireworks. But the best new things slip their way in and
+      jump-start a revolution.`
     actions:
       - label: Get Started
         type: button
